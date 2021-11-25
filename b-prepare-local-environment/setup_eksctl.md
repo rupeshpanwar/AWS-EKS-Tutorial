@@ -7,6 +7,8 @@ https://github.com/weaveworks/eksctl/releases
 
 on Linux, you can just execute:
 
+https://docs.aws.amazon.com/eks/latest/userguide/eksctl.html
+
 ```bash
 curl --silent --location "https://github.com/weaveworks/eksctl/releases/download/latest_release/eksctl_$(uname -s)_amd64.tar.gz" | tar xz -C /tmp  
 
